@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "author": "Naqushab Neyazee <naqushab.neyazee24@gmail.com>",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --no-semi --trailing-comma es5 --write 'src/**/*.js'"
   },
   "dependencies": {
@@ -35,5 +36,8 @@
     "typography": "^0.15.10",
     "typography-plugin-code": "^0.15.10",
     "typography-theme-de-young": "^0.15.10"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
   }
 }
