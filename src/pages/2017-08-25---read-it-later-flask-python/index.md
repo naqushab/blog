@@ -8,7 +8,7 @@ date: "2017-08-25T17:52:44.000Z"
 draft: false
 ---
 
-Welcome to sixteenth week of [52 Technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016) blog series. This week I will show you how to build a simple yet working **Read It Later** application using Twitter likes (or favorites). I rely on my Twitter feed for my daily reading recommendations. I check Twitter several time during the day and whenever I find any article that interests me I like it so that I can read it later. In this tutorial, you will learn how to build `Read It Later` application using Python programming language. We will make use of article extraction to extract relevant content from the urls.
+In this tutorial, you will learn how to build `Read It Later` application using Python programming language. We will make use of article extraction to extract relevant content from the urls.
 
 To build this application, we will use following Python libraries:
 
