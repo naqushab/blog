@@ -1,0 +1,2 @@
+webpackJsonp([15],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons",author:"Naqushab Neyazee",homeCity:"Noida"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/read-it-later-flask-python/"},frontmatter:{title:"Building Read It Later App with Python Newspaper Library"}}},{node:{fields:{slug:"/trie-dictionary-spellcheck/"},frontmatter:{title:"Investigating tries - Writing a spell-checking algorithm"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-05841dbb6c30ad43d2be.js.map
