@@ -2,7 +2,7 @@
 title: Tools to help administer your Facebook Groups
 date: "2014-05-20T23:46:37.121Z"
 layout: post
-readNext___file: ../2011-10-28---building-your-own-tools/index.md
+readNext___file: ../2014-05-20---tools-administer-facebook-groups/index.md
 ---
 
 I'm an administrator for an active Facebook group. There's about a 100 or so of us
