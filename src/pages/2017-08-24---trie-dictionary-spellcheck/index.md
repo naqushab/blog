@@ -187,7 +187,7 @@ However, this slow startup only needs to be run once, and won’t affect perform
 
 ### Memory usage
 
-Tries trade off speed for memory usage. Although storing a list of words in a trie reduces the total number of characters stored4, each character stored now has overhead associated with it from the Node object which contains it, and the dict used to store its relationships.
+Tries trade off speed for memory usage. Although storing a list of words in a trie reduces the total number of characters stored ^_4_, each character stored now has overhead associated with it from the Node object which contains it, and the dict used to store its relationships.
 
 This memory usage can be reduced by storing the words in a [deterministic acyclic finite state automaton](https://en.wikipedia.org/wiki/Deterministic_acyclic_finite_state_automaton), which prunes some of the redundancy out of the trie.
 
