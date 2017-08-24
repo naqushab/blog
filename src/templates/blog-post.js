@@ -3,7 +3,7 @@ import Helmet from "react-helmet"
 import Link from "gatsby-link"
 import typography from "../utils/typography"
 const { rhythm, scale } = typography
-const profilePic = require("../images/kyle-round-small-pantheon.jpg")
+const profilePic = require("../images/naqushab.jpg")
 import ReadNext from "../components/ReadNext"
 //import { query } from '../components/ReadNext'
 const query = `
@@ -102,7 +102,7 @@ class BlogPostRoute extends React.Component {
           <strong>{this.props.data.site.siteMetadata.author}</strong> lives and
           works in {this.props.data.site.siteMetadata.homeCity} building useful
           things.{" "}
-          <a href="https://twitter.com/kylemathews">
+          <a href="https://twitter.com/naqushab">
             You should follow him on Twitter
           </a>
         </p>

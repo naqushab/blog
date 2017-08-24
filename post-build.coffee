@@ -18,14 +18,14 @@
 
 #generateAtomFeed = (pages) ->
   #feed = new Feed({
-    #title:       'Bricolage',
-    #description: 'A blog by Kyle Mathews',
-    #link:        'https://bricolage.io/',
-    #id:        'https://bricolage.io/',
-    #copyright:   'All rights reserved 2016, Kyle Mathews',
+    #title:       'Daemons',
+    #description: 'A blog by Naqushab',
+    #link:        'http://naqushab.github.io/blog',
+    #id:        'http://naqushab.github.io/blog',
+    #copyright:   'All rights reserved 2017, Naqushab Neyazee',
     #author: {
-      #name:    'Kyle Mathews',
-      #email:   'mathews.kyle@gmail.com',
+      #name:    'Naqushab Neyazee',
+      #email:   'naqushab.neyazee24@gmail.com',
     #}
   #})
 
@@ -37,8 +37,8 @@
   #).slice(0,10)
     #feed.addItem({
       #title: page.data.title
-      #id: "https://bricolage.io#{page.path}"
-      #link: "https://bricolage.io#{page.path}"
+      #id: "http://naqushab.github.io/blog#{page.path}"
+      #link: "http://naqushab.github.io/blog#{page.path}"
       #date: moment(page.data.date).toDate()
       #content: md.render(
         #frontmatter(
@@ -49,16 +49,16 @@
         #).body
       #)
       #author: [{
-        #name: "Kyle Mathews"
-        #email: "mathews.kyle@gmail.com"
-        #link: "https://bricolage.io"
+        #name: "Naqushab Neyazee"
+        #email: "naqushab.neyazee24@gmail.com"
+        #link: "http://naqushab.github.io/blog"
       #}]
     #})
 
   #feed.addContributor({
-    #name: 'Kyle Mathews'
-    #email: 'mathews.kyle@gmail.com'
-    #link: 'https://bricolage.io'
+    #name: 'Naqushab Neyazee'
+    #email: 'naqushab.neyazee24@gmail.com'
+    #link: 'http://naqushab.github.io/blog'
   #})
 
   #fs.writeFileSync "#{__dirname}/public/atom.xml", feed.render('atom-1.0')

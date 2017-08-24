@@ -34,7 +34,7 @@ class Wrapper extends React.Component {
               marginTop: 0,
             }}
           >
-            Bricolage
+            Daemons
           </h1>
         </Link>
       )
@@ -53,7 +53,7 @@ class Wrapper extends React.Component {
               marginTop: 0,
             }}
           >
-            Bricolage
+            Daemons
           </h3>
         </Link>
       )
@@ -66,7 +66,7 @@ class Wrapper extends React.Component {
           margin: `0 auto`,
         }}
       >
-        <Helmet defaultTitle="Bricolage" titleTemplate="Bricolage | %s" />
+        <Helmet defaultTitle="Daemons" titleTemplate="Daemons | %s" />
         <div>
           {header}
         </div>

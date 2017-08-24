@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Bricolage",
-    author: "Kyle Mathews",
-    homeCity: "San Francisco",
+    title: "Daemons",
+    author: "Naqushab Neyazee",
+    homeCity: "Noida",
   },
   plugins: [
     {
@@ -39,14 +39,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-774017-3`,
+        trackingId: `UA-000000-0`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Bricolage",
-        short_name: "Bricolage",
+        name: "Daemons",
+        short_name: "Daemons",
         icons: [
           {
             src: "/logo.png",

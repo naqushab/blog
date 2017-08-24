@@ -4,7 +4,7 @@ import Link from "gatsby-link"
 
 import typography from "../utils/typography"
 const rhythm = typography.rhythm
-const profilePic = require("../images/kyle-round-small-pantheon.jpg")
+const profilePic = require("../images/naqushab.jpg")
 
 class BlogIndexRoute extends React.Component {
   render() {
@@ -34,9 +34,9 @@ class BlogIndexRoute extends React.Component {
           Written by <strong>
             {this.props.data.site.siteMetadata.author}
           </strong>{" "}
-          who lives and works in San Francisco building really useful things.
+          who works at Adobe as Senior Software Engineer.
           You should{" "}
-          <a href="https://twitter.com/kylemathews">follow him on Twitter</a>
+          <a href="https://twitter.com/naqushab">follow him on Twitter</a>
         </p>
         <ul
           style={{

@@ -1,6 +1,9 @@
-blog
-====
+# http://naqushab.github.io/blog
 
-my blog!
 
-Visit the actual site at http://bricolage.io
+## Install
+- `yarn install`
+
+## Run
+- In development: `gatsby develop`.
+- Static build: `gatsby build`.
