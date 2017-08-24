@@ -1,2 +1,0 @@
-webpackJsonp([8],{"./node_modules/json-loader/index.js!./.cache/json/tags-data-structures.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/gatsby-open-source-work/"},frontmatter:{title:"Investigating tries - Writing a spell-checking algorithm"}}}]}},pathContext:{tag:"data structures"}}}});
-//# sourceMappingURL=path---tags-data-structures-fd8e850a3cdb4957cbb0.js.map

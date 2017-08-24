@@ -1,0 +1,2 @@
+webpackJsonp([8],{"./node_modules/json-loader/index.js!./.cache/json/tags-trie.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/trie-dictionary-spellcheck/"},frontmatter:{title:"Investigating tries - Writing a spell-checking algorithm"}}}]}},pathContext:{tag:"trie"}}}});
+//# sourceMappingURL=path---tags-trie-6b7ac5dd45f8e08f7fe5.js.map

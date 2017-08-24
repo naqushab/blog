@@ -1,2 +1,0 @@
-webpackJsonp([10],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons",author:"Naqushab Neyazee",homeCity:"Noida"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/gatsby-open-source-work/"},frontmatter:{title:"Investigating tries - Writing a spell-checking algorithm"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-597436a9bd3a729e4c7f.js.map

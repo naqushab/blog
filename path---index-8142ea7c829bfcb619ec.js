@@ -1,0 +1,2 @@
+webpackJsonp([11],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons",author:"Naqushab Neyazee",homeCity:"Noida"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/trie-dictionary-spellcheck/"},frontmatter:{title:"Investigating tries - Writing a spell-checking algorithm"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-8142ea7c829bfcb619ec.js.map
