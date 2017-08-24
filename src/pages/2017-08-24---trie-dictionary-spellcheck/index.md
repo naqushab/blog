@@ -3,7 +3,7 @@ title: Investigating tries - Writing a spell-checking algorithm
 tags:
   - data structures
   - trie
-date: "2016-08-12T17:52:44.000Z"
+date: "2017-08-24T17:52:44.000Z"
 draft: false
 ---
 
