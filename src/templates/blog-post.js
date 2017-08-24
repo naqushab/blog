@@ -99,11 +99,10 @@ class BlogPostRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          <strong>{this.props.data.site.siteMetadata.author}</strong> lives and
-          works in {this.props.data.site.siteMetadata.homeCity} building useful
-          things.{" "}
+          <strong>{this.props.data.site.siteMetadata.author}</strong> is Senior Software
+          Engineer at Adobe and is fond of dabbling with new technologies.{" "}
           <a href="https://twitter.com/naqushab">
-            You should follow him on Twitter
+            You can follow him on Twitter
           </a>
         </p>
       </div>

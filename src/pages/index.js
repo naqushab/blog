@@ -34,8 +34,8 @@ class BlogIndexRoute extends React.Component {
           Written by <strong>
             {this.props.data.site.siteMetadata.author}
           </strong>{" "}
-          who works at Adobe as Senior Software Engineer.
-          You should{" "}
+          who works at Adobe as Senior Software Engineer and is fond of dabbling with new technologies.
+          You can{" "}
           <a href="https://twitter.com/naqushab">follow him on Twitter</a>
         </p>
         <ul
