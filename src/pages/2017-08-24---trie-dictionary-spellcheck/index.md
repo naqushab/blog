@@ -128,7 +128,7 @@ Trie search 1000 items 100 times: 0.461572885513
 
 We can empirically measure the algorithm’s time complexity by measuring the time taken to search for words of variable length known to be in the trie.
 
-![Trie Search Complexity](trie-search-complexity.png)
+![Trie Search Complexity](https://raw.githubusercontent.com/naqushab/static-assets/master/image/trie-search-complexity.png)
 
 Graph showing trie's search has linear time complexity.
 

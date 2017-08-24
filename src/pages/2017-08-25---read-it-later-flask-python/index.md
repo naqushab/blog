@@ -18,7 +18,7 @@ To build this application, we will use following Python libraries:
 
 By the end of this tutorial, you will have a simple yet working application to view articles that you wanted to read later. The following is the screenshot of our application. As you can see below, we extracted main image, summary text, and title from the url.
 
-![Screenshot](stories.jpg)
+![Screenshot](https://raw.githubusercontent.com/naqushab/static-assets/master/image/stories.jpg)
 
 
 ## What is Newspaper?

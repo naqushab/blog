@@ -10,7 +10,7 @@ draft: false
 
 **Hash table** (also **hash map**) is a data structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the corresponding value can be found.
 
-![Hashmap](hashmap.png)
+![Hashmap](https://raw.githubusercontent.com/naqushab/static-assets/master/image/hashmap.png)
 
 We will go through a basic Hash Map implementation in C++ with generic type key-value pairs by using templates. It is genuinely not a production-ready implementation of HashMap class, however it simply shows how this data structure can be implemented in C++.
 
