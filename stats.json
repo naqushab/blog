@@ -29,8 +29,8 @@
       "path---trie-dictionary-spellcheck-dc66d4bc0941505f0c09.js.map"
     ],
     "path---tags": [
-      "path---tags-f39c710fe2cc4351e1bf.js",
-      "path---tags-f39c710fe2cc4351e1bf.js.map"
+      "path---tags-723bf0489eded3aa2857.js",
+      "path---tags-723bf0489eded3aa2857.js.map"
     ],
     "path---tags-web-crawler": [
       "path---tags-web-crawler-e63693abf64505dff421.js",
@@ -39,6 +39,10 @@
     "path---tags-trie": [
       "path---tags-trie-086208cb364f4cf18e71.js",
       "path---tags-trie-086208cb364f4cf18e71.js.map"
+    ],
+    "path---tags-system-design": [
+      "path---tags-system-design-9a9c274353e064863300.js",
+      "path---tags-system-design-9a9c274353e064863300.js.map"
     ],
     "path---tags-read-it-later": [
       "path---tags-read-it-later-51e216b10fc4a7c214cc.js",
@@ -51,6 +55,10 @@
     "path---tags-producer-consumer": [
       "path---tags-producer-consumer-933e50868a7295fb3d0f.js",
       "path---tags-producer-consumer-933e50868a7295fb3d0f.js.map"
+    ],
+    "path---tags-overview": [
+      "path---tags-overview-cb5a29d04f3bae69b1d2.js",
+      "path---tags-overview-cb5a29d04f3bae69b1d2.js.map"
     ],
     "path---tags-newspaper": [
       "path---tags-newspaper-2a9f0a6d3c25bfea20fc.js",
@@ -76,6 +84,10 @@
       "path---tags-c-df2a0b512f7b8774beea.js",
       "path---tags-c-df2a0b512f7b8774beea.js.map"
     ],
+    "path---system-design-overview": [
+      "path---system-design-overview-b389162da856803dc488.js",
+      "path---system-design-overview-b389162da856803dc488.js.map"
+    ],
     "path---read-it-later-flask-python": [
       "path---read-it-later-flask-python-cb7807fc6050324a5a1c.js",
       "path---read-it-later-flask-python-cb7807fc6050324a5a1c.js.map"
@@ -89,16 +101,16 @@
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
     "path---index": [
-      "path---index-895d1881c0c3b30f610f.js",
-      "path---index-895d1881c0c3b30f610f.js.map"
+      "path---index-5be578dddb5206c9c567.js",
+      "path---index-5be578dddb5206c9c567.js.map"
     ],
     "path---hashmap-implementation-in-c": [
       "path---hashmap-implementation-in-c-4193d0fbd102d257dd6d.js",
       "path---hashmap-implementation-in-c-4193d0fbd102d257dd6d.js.map"
     ],
     "path---designing-web-crawler-python": [
-      "path---designing-web-crawler-python-91de9d3d3959af5955d0.js",
-      "path---designing-web-crawler-python-91de9d3d3959af5955d0.js.map"
+      "path---designing-web-crawler-python-ffc70b491243fcc7a84c.js",
+      "path---designing-web-crawler-python-ffc70b491243fcc7a84c.js.map"
     ],
     "path---404": [
       "path---404-586c7e095e534a3909ec.js",
@@ -117,8 +129,8 @@
       "page-component---src-pages-404-js-f663b5055daf70a8204e.js.map"
     ],
     "app": [
-      "app-7177ca94558ad9d0fd94.js",
-      "app-7177ca94558ad9d0fd94.js.map"
+      "app-f59ba2f6e62196c04164.js",
+      "app-f59ba2f6e62196c04164.js.map"
     ]
   }
 }

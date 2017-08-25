@@ -1,2 +1,2 @@
-webpackJsonp([16],{"./node_modules/json-loader/index.js!./.cache/json/tags-design.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/designing-web-crawler-python/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Design"}}}});
+webpackJsonp([18],{"./node_modules/json-loader/index.js!./.cache/json/tags-design.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/designing-web-crawler-python/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Design"}}}});
 //# sourceMappingURL=path---tags-design-93e4abdd9498ecc34dcf.js.map
