@@ -1,0 +1,2 @@
+webpackJsonp([25],{"./node_modules/json-loader/index.js!./.cache/json/tags-algorithm.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/ternary-search-101/"},frontmatter:{title:"Ternary Search Overview"}}}]}},pathContext:{tag:"Algorithm"}}}});
+//# sourceMappingURL=path---tags-algorithm-a0cb86b698859741bf06.js.map

@@ -28,9 +28,13 @@
       "path---trie-dictionary-spellcheck-dc66d4bc0941505f0c09.js",
       "path---trie-dictionary-spellcheck-dc66d4bc0941505f0c09.js.map"
     ],
+    "path---ternary-search-101": [
+      "path---ternary-search-101-c9ad57e04b432166dd54.js",
+      "path---ternary-search-101-c9ad57e04b432166dd54.js.map"
+    ],
     "path---tags": [
-      "path---tags-78cf346a06fd029ecb35.js",
-      "path---tags-78cf346a06fd029ecb35.js.map"
+      "path---tags-3609df8a1b8ab6f6866f.js",
+      "path---tags-3609df8a1b8ab6f6866f.js.map"
     ],
     "path---tags-web-crawler": [
       "path---tags-web-crawler-e63693abf64505dff421.js",
@@ -43,6 +47,10 @@
     "path---tags-system-design": [
       "path---tags-system-design-9a9c274353e064863300.js",
       "path---tags-system-design-9a9c274353e064863300.js.map"
+    ],
+    "path---tags-searching": [
+      "path---tags-searching-21d228ba3beac6906586.js",
+      "path---tags-searching-21d228ba3beac6906586.js.map"
     ],
     "path---tags-read-it-later": [
       "path---tags-read-it-later-51e216b10fc4a7c214cc.js",
@@ -92,6 +100,10 @@
       "path---tags-c-df2a0b512f7b8774beea.js",
       "path---tags-c-df2a0b512f7b8774beea.js.map"
     ],
+    "path---tags-algorithm": [
+      "path---tags-algorithm-a0cb86b698859741bf06.js",
+      "path---tags-algorithm-a0cb86b698859741bf06.js.map"
+    ],
     "path---system-design-overview": [
       "path---system-design-overview-9e44f350cd21a4e9fa94.js",
       "path---system-design-overview-9e44f350cd21a4e9fa94.js.map"
@@ -109,8 +121,8 @@
       "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
     ],
     "path---index": [
-      "path---index-d9b286729f53a89f1b87.js",
-      "path---index-d9b286729f53a89f1b87.js.map"
+      "path---index-60c73d8529cac37ebeda.js",
+      "path---index-60c73d8529cac37ebeda.js.map"
     ],
     "path---hashmap-implementation-in-c": [
       "path---hashmap-implementation-in-c-4193d0fbd102d257dd6d.js",
@@ -141,8 +153,8 @@
       "page-component---src-pages-404-js-f663b5055daf70a8204e.js.map"
     ],
     "app": [
-      "app-66a4f973378c33069c7f.js",
-      "app-66a4f973378c33069c7f.js.map"
+      "app-b1fe6dac8b8bb34e1bef.js",
+      "app-b1fe6dac8b8bb34e1bef.js.map"
     ]
   }
 }
