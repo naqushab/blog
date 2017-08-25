@@ -1,5 +1,5 @@
 ---
-title: Designing a Web Crawler
+title: Difference between Greedy and Dynamic Programming
 tags:
   - Greedy Solution
   - Dynamic Programming
