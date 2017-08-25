@@ -8,30 +8,6 @@ date: "2017-08-25T11:52:44.000Z"
 draft: false
 ---
 
-<!-- MarkdownTOC -->
-
-- [Scenario](#scenario)
-- [Initial design](#initial-design)
-	- [A simplistic news crawler](#a-simplistic-news-crawler)
-	- [A single threaded web crawler](#a-single-threaded-web-crawler)
-		- [Overview](#overview)
-		- [Initial implementation](#initial-implementation)
-		- [Improve with Condition](#improve-with-condition)
-		- [Add a max size on the queue](#add-a-max-size-on-the-queue)
-		- [Use a queue instead](#use-a-queue-instead)
-	- [A multi-threaded web crawler](#a-multi-threaded-web-crawler)
-	- [A distributed web crawler](#a-distributed-web-crawler)
-- [Service](#service)
-- [Scale](#scale)
-	- [Shard task table](#shard-task-table)
-	- [How to handle update for failure](#how-to-handle-update-for-failure)
-	- [How to handle dead cycle](#how-to-handle-dead-cycle)
-	- [Multi-region](#multi-region)
-- [Reference](#reference)
-
-<!-- /MarkdownTOC -->
-
-
 ## Scenario
 * Given seeds, crawl the web
 	- How many web pages?
