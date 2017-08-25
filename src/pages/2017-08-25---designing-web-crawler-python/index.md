@@ -4,11 +4,9 @@ tags:
   - Design
   - Web Crawler
   - Python
-date: "2017-08-25T11:44:44.000Z"
+date: "2017-08-25T11:52:44.000Z"
 draft: false
 ---
-
-# Crawler
 
 <!-- MarkdownTOC -->
 
