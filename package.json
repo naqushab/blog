@@ -4,10 +4,15 @@
   "version": "0.0.1",
   "author": "Naqushab Neyazee <naqushab.neyazee24@gmail.com>",
   "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "prettier-eslint \"src/**/*.js\"",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "format": "prettier --no-semi --trailing-comma es5 --write 'src/**/*.js'"
+    "gh-pages": "gh-pages -d public",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "autoprefixer": "^7.2.5",
     "babel-plugin-lodash": "^3.2.11",
     "bluebird": "^3.4.7",
     "es6-object-assign": "^1.0.3",
@@ -27,6 +32,7 @@
     "gatsby-source-filesystem": "^1.4.12",
     "gatsby-transformer-remark": "^1.7.6",
     "gatsby-transformer-sharp": "^1.6.5",
+    "gh-pages": "^1.1.0",
     "lodash": "^4.17.4",
     "lodash-webpack-plugin": "^0.11.2",
     "prettier": "^1.6.1",
@@ -36,8 +42,5 @@
     "typography": "^0.16.4",
     "typography-plugin-code": "^0.15.10",
     "typography-theme-de-young": "^0.15.10"
-  },
-  "devDependencies": {
-    "gh-pages": "^1.0.0"
   }
 }
