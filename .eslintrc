@@ -12,9 +12,9 @@
     "react/prefer-es6-class": [0],
     "react/prefer-stateless-function": [0],
     "import/no-unresolved": [0],
-    "global-require": [0],
+    "global-require": [0]
   },
   "globals": {
-    "__PREFIX_LINKS__": true,
-  },
+    "__PREFIX_LINKS__": true
+  }
 }

@@ -19,7 +19,7 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: `gatsby-remark-responsive-image`,
             options: {
               maxWidth: 590,
             },
@@ -62,7 +62,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
-    // `gatsby-plugin-preact`,
+    `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
   ],
 }
