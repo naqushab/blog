@@ -1,0 +1,2 @@
+webpackJsonp([36270043934531],{459:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/mos-algorithm/"},frontmatter:{title:"Mo's Algorithm"}}}]}},pathContext:{tag:"Mo's"}}}});
+//# sourceMappingURL=path---tags-mos-d18432a000025e51afc5.js.map
