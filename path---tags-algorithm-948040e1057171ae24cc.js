@@ -1,0 +1,2 @@
+webpackJsonp([44727209576107],{447:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/string-searching-kmp/"},frontmatter:{title:"String Searching – The Knuth-Morris-Pratt Algorithm"}}},{node:{fields:{slug:"/ternary-search-101/"},frontmatter:{title:"Ternary Search Overview"}}}]}},pathContext:{tag:"Algorithm"}}}});
+//# sourceMappingURL=path---tags-algorithm-948040e1057171ae24cc.js.map

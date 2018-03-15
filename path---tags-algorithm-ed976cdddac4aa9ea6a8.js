@@ -1,2 +1,0 @@
-webpackJsonp([27],{"./node_modules/json-loader/index.js!./.cache/json/tags-algorithm.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/ternary-search-101/"},frontmatter:{title:"Ternary Search Overview"}}},{node:{fields:{slug:"/string-searching-kmp/"},frontmatter:{title:"String Searching – The Knuth-Morris-Pratt Algorithm"}}}]}},pathContext:{tag:"Algorithm"}}}});
-//# sourceMappingURL=path---tags-algorithm-ed976cdddac4aa9ea6a8.js.map

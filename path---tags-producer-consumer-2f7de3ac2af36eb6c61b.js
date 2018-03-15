@@ -1,0 +1,2 @@
+webpackJsonp([94738983780980],{458:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/producer-consumer-problem/"},frontmatter:{title:"Producer Consumer Problem in Python"}}}]}},pathContext:{tag:"Producer Consumer"}}}});
+//# sourceMappingURL=path---tags-producer-consumer-2f7de3ac2af36eb6c61b.js.map

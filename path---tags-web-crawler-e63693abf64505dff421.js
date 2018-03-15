@@ -1,2 +1,0 @@
-webpackJsonp([9],{"./node_modules/json-loader/index.js!./.cache/json/tags-web-crawler.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/designing-web-crawler-python/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Web Crawler"}}}});
-//# sourceMappingURL=path---tags-web-crawler-e63693abf64505dff421.js.map

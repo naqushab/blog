@@ -1,2 +1,0 @@
-webpackJsonp([18],{"./node_modules/json-loader/index.js!./.cache/json/tags-greedy-solution.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/greedy-vs-dynamic-programming/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Greedy Solution"}}}});
-//# sourceMappingURL=path---tags-greedy-solution-255b0ebc982323b963ec.js.map

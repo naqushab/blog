@@ -1,2 +1,0 @@
-webpackJsonp([10],{"./node_modules/json-loader/index.js!./.cache/json/tags-python.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/read-it-later-flask-python/"},frontmatter:{title:"Building Read It Later App with Python Newspaper Library"}}}]}},pathContext:{tag:"Python"}}}});
-//# sourceMappingURL=path---tags-python-6e098c7609069b93ebbd.js.map
