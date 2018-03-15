@@ -1,2 +1,2 @@
-webpackJsonp([0xc144488e5935],{460:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/producer-consumer-problem/"},frontmatter:{title:"Producer Consumer Problem in Python"}}}]}},pathContext:{tag:"Multi Threading"}}}});
+webpackJsonp([0xc144488e5935],{455:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/producer-consumer-problem/"},frontmatter:{title:"Producer Consumer Problem in Python"}}}]}},pathContext:{tag:"Multi Threading"}}}});
 //# sourceMappingURL=path---tags-multi-threading-eff49fd2220822d6d2bc.js.map

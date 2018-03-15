@@ -1,2 +1,2 @@
-webpackJsonp([0x990a540c2954],{466:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/read-it-later-flask-python/"},frontmatter:{title:"Building Read It Later App with Python Newspaper Library"}}}]}},pathContext:{tag:"Read It Later"}}}});
+webpackJsonp([0x990a540c2954],{460:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/read-it-later-flask-python/"},frontmatter:{title:"Building Read It Later App with Python Newspaper Library"}}}]}},pathContext:{tag:"Read It Later"}}}});
 //# sourceMappingURL=path---tags-read-it-later-4f804814d24b618bc5d5.js.map
