@@ -41,8 +41,8 @@
       "path---tags-algorithm-948040e1057171ae24cc.js.map"
     ],
     "path---tags": [
-      "path---tags-14f7dc8dae94dbcc6c92.js",
-      "path---tags-14f7dc8dae94dbcc6c92.js.map"
+      "path---tags-9be47b6ffba440308654.js",
+      "path---tags-9be47b6ffba440308654.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -63,6 +63,10 @@
     "path---tags-newspaper": [
       "path---tags-newspaper-818c0597a5eff9184d10.js",
       "path---tags-newspaper-818c0597a5eff9184d10.js.map"
+    ],
+    "path---heap-implementation-c": [
+      "path---heap-implementation-c-bfe57a95992ff77f87d7.js",
+      "path---heap-implementation-c-bfe57a95992ff77f87d7.js.map"
     ],
     "component---src-templates-tag-page-js": [
       "component---src-templates-tag-page-js-1a69174989d4259991b2.js",
@@ -116,9 +120,13 @@
       "path---tags-string-fab0a97c9d60ffbf377f.js",
       "path---tags-string-fab0a97c9d60ffbf377f.js.map"
     ],
+    "path---tags-heap": [
+      "path---tags-heap-7e92679d72a1dd5499ac.js",
+      "path---tags-heap-7e92679d72a1dd5499ac.js.map"
+    ],
     "path---index": [
-      "path---index-537f346a857de84bea4b.js",
-      "path---index-537f346a857de84bea4b.js.map"
+      "path---index-a4e99ab125fc39dabb8b.js",
+      "path---index-a4e99ab125fc39dabb8b.js.map"
     ],
     "path---greedy-vs-dynamic-programming": [
       "path---greedy-vs-dynamic-programming-adab4b9ddd07660d29e6.js",
@@ -144,6 +152,10 @@
       "commons-2c1f772de09748d79929.js",
       "commons-2c1f772de09748d79929.js.map"
     ],
+    "path---tags-data-structure": [
+      "path---tags-data-structure-e34a6e72f73db420743e.js",
+      "path---tags-data-structure-e34a6e72f73db420743e.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
@@ -165,9 +177,9 @@
       "path---hashmap-implementation-in-c-32927d171695b6fcbb4a.js.map"
     ],
     "app": [
-      "app-a58e68831cb2c2feb1e0.js",
+      "app-c4956923d82f6a9d6817.js",
       "build-js-styles.css",
-      "app-a58e68831cb2c2feb1e0.js.map",
+      "app-c4956923d82f6a9d6817.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

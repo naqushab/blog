@@ -1,0 +1,2 @@
+webpackJsonp([0x9ea9d4f31504],{453:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/heap-implementation=c/"},frontmatter:{title:"Heap Implementation in C++"}}}]}},pathContext:{tag:"Data-Structure"}}}});
+//# sourceMappingURL=path---tags-data-structure-e34a6e72f73db420743e.js.map
