@@ -1,2 +1,2 @@
-webpackJsonp([38699965319050],{471:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/designing-web-crawler-python/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Web Crawler"}}}});
+webpackJsonp([38699965319050],{475:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Daemons"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/designing-web-crawler-python/"},frontmatter:{title:"Designing a Web Crawler"}}}]}},pathContext:{tag:"Web Crawler"}}}});
 //# sourceMappingURL=path---tags-web-crawler-04b56649263872b95cf7.js.map
